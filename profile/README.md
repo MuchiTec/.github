@@ -45,8 +45,9 @@
 - **[Drive Route 66](https://www.driveroute66.com)**: road-trip planner and travel guide for Route 66 (USA). iOS, Android, web and admin.
 - **[East Crafts](https://eastcrafts.pk)**: e-commerce for a handcrafted furniture brand, with automated order emails (Lahore).
 - **[Teachly](https://www.teachly.systems)**: an education marketplace for Pakistan. Android, iOS and web.
-- **Oral Health Scanner**: an AI app that screens mouth photos for signs of oral cancer (Karachi).
-- **[Liberty Harbor & Bay Law](https://libertyharborandbaylawfirm.com)**: website for a New York law firm.
+- **Heritage Land**: upload a CAD drawing PDF and the system extracts line items with verified dimensions, then issues priced, numbered quotations for a joinery manufacturer (UAE). FastAPI, PostgreSQL and Next.js.
+- **Wahaj Traders POS**: a grocery point-of-sale from one Flutter codebase, with a Windows app for cashiers and an Android app for staff, sharing one Supabase backend (Rawalpindi).
+- **Paw Protect**: QR collar tags, health records and lost-cat alerts, with an AI assistant for cat care (Germany). Flutter, Supabase and Gemini AI.
 
 14 products shipped for clients in Pakistan, the USA, Germany and the UAE. [See the full portfolio →](https://muchitec.vercel.app/portfolio)
 
