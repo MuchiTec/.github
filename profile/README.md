@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  📩 <a href="mailto:muchitec.com@gmail.com">muchitec.com@gmail.com</a> ·
+  📩 <a href="mailto:hello@muchitec.com">hello@muchitec.com</a> ·
   💬 <a href="https://wa.me/923167290576">WhatsApp</a> ·
   We reply within one business day.
 </p>
